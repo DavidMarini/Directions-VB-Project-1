@@ -1,0 +1,11 @@
+C:\Users\131142\Desktop\VB\Directions\Directions\bin\Debug\Directions.exe.config
+C:\Users\131142\Desktop\VB\Directions\Directions\bin\Debug\Directions.exe
+C:\Users\131142\Desktop\VB\Directions\Directions\bin\Debug\Directions.pdb
+C:\Users\131142\Desktop\VB\Directions\Directions\bin\Debug\Directions.xml
+C:\Users\131142\Desktop\VB\Directions\Directions\obj\Debug\Directions.vbprojResolveAssemblyReference.cache
+C:\Users\131142\Desktop\VB\Directions\Directions\obj\Debug\Directions.Form1.resources
+C:\Users\131142\Desktop\VB\Directions\Directions\obj\Debug\Directions.Resources.resources
+C:\Users\131142\Desktop\VB\Directions\Directions\obj\Debug\Directions.vbproj.GenerateResource.Cache
+C:\Users\131142\Desktop\VB\Directions\Directions\obj\Debug\Directions.exe
+C:\Users\131142\Desktop\VB\Directions\Directions\obj\Debug\Directions.xml
+C:\Users\131142\Desktop\VB\Directions\Directions\obj\Debug\Directions.pdb
